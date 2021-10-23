@@ -1,0 +1,112 @@
+{
+  "uid" : "fc71a4bd26c63a14",
+  "name" : "test_CreateVM[yi.pan-hfhhffdg]",
+  "fullName" : "Testcases.test_createvm.TestCreateVM#test_CreateVM",
+  "historyId" : "dce301d1736974f017f17739fef651c0",
+  "time" : {
+    "start" : 1634881754944,
+    "stop" : 1634881755569,
+    "duration" : 625
+  },
+  "description" : "test",
+  "descriptionHtml" : "<p>test</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open_browswr",
+    "time" : {
+      "start" : 1634881751872,
+      "stop" : 1634881754943,
+      "duration" : 3071
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "test",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "aba595194a46175d",
+      "name" : "log",
+      "source" : "aba595194a46175d.txt",
+      "type" : "text/plain",
+      "size" : 93
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "open_browswr::0",
+    "time" : {
+      "start" : 1634881755968,
+      "stop" : 1634881755968,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_createvm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCreateVM"
+  }, {
+    "name" : "host",
+    "value" : "wangyingdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "60063-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Testcases.test_createvm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'hfhhffdg'"
+  }, {
+    "name" : "username",
+    "value" : "'yi.pan'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "fc71a4bd26c63a14.json",
+  "parameterValues" : [ "'hfhhffdg'", "'yi.pan'" ]
+}

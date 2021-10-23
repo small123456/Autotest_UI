@@ -1,0 +1,66 @@
+2021-10-21 13:09:30,941-file_process.py-INFO-Had read file info
+2021-10-21 13:09:31,009-conftest.py-INFO-执行fixture
+2021-10-21 13:09:39,497-base_page.py-INFO-标红成功
+2021-10-21 13:09:39,970-conftest.py-INFO-执行fixture
+2021-10-21 13:11:10,012-file_process.py-INFO-Had read file info
+2021-10-21 13:11:10,071-conftest.py-INFO-执行fixture
+2021-10-21 13:11:18,114-base_page.py-INFO-标红成功
+2021-10-21 13:11:18,575-conftest.py-INFO-执行fixture
+2021-10-21 13:12:02,960-file_process.py-INFO-Had read file info
+2021-10-21 13:12:02,967-conftest.py-INFO-执行fixture
+2021-10-21 13:12:11,164-base_page.py-INFO-标红成功
+2021-10-21 13:12:11,634-conftest.py-INFO-执行fixture
+2021-10-21 13:13:36,452-file_process.py-INFO-Had read file info
+2021-10-21 13:13:36,458-conftest.py-INFO-执行fixture
+2021-10-21 13:13:39,243-base_page.py-INFO-清除成功
+2021-10-21 13:13:39,256-base_page.py-INFO-标红成功
+2021-10-21 13:13:39,270-base_page.py-INFO-清除成功
+2021-10-21 13:13:39,883-base_page.py-INFO-标红成功
+2021-10-21 13:13:40,379-conftest.py-INFO-执行fixture
+2021-10-21 13:19:18,266-file_process.py-INFO-Had read file info
+2021-10-21 13:19:18,273-conftest.py-INFO-执行fixture
+2021-10-21 13:19:23,690-brower_engine.py-ERROR-HTTPSConnectionPool(host='sso1.capitalonline.net', port=443): Max retries exceeded with url: /pages/login.html?next=http://console.capitalonline.net/vdc (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+2021-10-21 13:19:23,785-conftest.py-INFO-执行fixture
+2021-10-21 13:20:21,502-file_process.py-INFO-Had read file info
+2021-10-21 13:20:21,514-conftest.py-INFO-执行fixture
+2021-10-21 13:20:25,403-base_page.py-INFO-标红成功
+2021-10-21 13:20:25,977-base_page.py-INFO-清除成功
+2021-10-21 13:20:26,014-base_page.py-INFO-标红成功
+2021-10-21 13:20:26,033-base_page.py-INFO-清除成功
+2021-10-21 13:20:26,459-conftest.py-INFO-执行fixture
+2021-10-21 13:31:59,506-file_process.py-INFO-Had read file info
+2021-10-21 13:31:59,515-conftest.py-INFO-执行fixture
+2021-10-21 13:32:05,334-base_page.py-INFO-标红成功
+2021-10-21 13:32:05,764-conftest.py-INFO-执行fixture
+2021-10-21 13:40:28,120-file_process.py-INFO-Had read file info
+2021-10-21 13:40:28,128-conftest.py-INFO-执行fixture
+2021-10-21 13:40:31,394-base_page.py-INFO-标红成功
+2021-10-21 13:40:31,844-base_page.py-INFO-清除成功
+2021-10-21 13:40:31,853-base_page.py-INFO-标红成功
+2021-10-21 13:40:31,860-base_page.py-INFO-清除成功
+2021-10-21 13:40:32,220-conftest.py-INFO-执行fixture
+2021-10-21 13:41:04,678-file_process.py-INFO-Had read file info
+2021-10-21 13:41:04,686-conftest.py-INFO-执行fixture
+2021-10-21 13:41:09,151-base_page.py-INFO-标红成功
+2021-10-21 13:41:09,639-conftest.py-INFO-执行fixture
+2021-10-21 13:53:06,889-file_process.py-INFO-Had read file info
+2021-10-21 13:53:38,323-conftest.py-INFO-执行fixture
+2021-10-21 13:53:42,449-base_page.py-INFO-清除成功
+2021-10-21 13:53:42,461-base_page.py-INFO-标红成功
+2021-10-21 13:53:42,476-base_page.py-INFO-清除成功
+2021-10-21 13:53:42,874-conftest.py-INFO-执行fixture
+2021-10-21 13:53:53,357-file_process.py-INFO-Had read file info
+2021-10-21 13:53:53,366-conftest.py-INFO-执行fixture
+2021-10-21 13:53:57,312-base_page.py-INFO-清除成功
+2021-10-21 13:53:57,328-base_page.py-INFO-标红成功
+2021-10-21 13:53:57,342-base_page.py-INFO-清除成功
+2021-10-21 13:53:57,787-conftest.py-INFO-执行fixture
+2021-10-21 13:55:38,643-file_process.py-INFO-Had read file info
+2021-10-21 13:58:30,229-file_process.py-INFO-Had read file info
+2021-10-21 13:58:30,234-conftest.py-INFO-执行fixture
+2021-10-21 13:58:35,558-brower_engine.py-ERROR-HTTPSConnectionPool(host='sso1.capitalonline.net', port=443): Max retries exceeded with url: /pages/login.html?next=http://console.capitalonline.net/vdc (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+2021-10-21 13:58:35,634-conftest.py-INFO-执行fixture
+2021-10-21 13:58:49,596-file_process.py-INFO-Had read file info
+2021-10-21 13:58:49,603-conftest.py-INFO-执行fixture
+2021-10-21 13:58:58,081-base_page.py-INFO-标红成功
+2021-10-21 13:58:58,521-conftest.py-INFO-执行fixture

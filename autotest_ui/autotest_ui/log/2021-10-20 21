@@ -1,0 +1,16 @@
+2021-10-20 21:11:34,088-file_process.py-INFO-Had read file info
+2021-10-20 21:12:42,874-file_process.py-INFO-Had read file info
+2021-10-20 21:12:42,885-conftest.py-INFO-执行fixture
+2021-10-20 21:44:46,833-file_process.py-INFO-Had read file info
+2021-10-20 21:45:49,069-file_process.py-INFO-Had read file info
+2021-10-20 21:46:48,991-file_process.py-INFO-Had read file info
+2021-10-20 21:48:10,712-file_process.py-INFO-Had read file info
+2021-10-20 21:51:40,447-file_process.py-INFO-Had read file info
+2021-10-20 21:51:40,463-conftest.py-INFO-执行fixture
+2021-10-20 21:51:52,747-base_page.py-ERROR-'NoneType' object has no attribute 'send_keys'
+2021-10-20 21:51:52,756-base_page.py-ERROR-'NoneType' object has no attribute 'send_keys'
+2021-10-20 21:51:52,891-conftest.py-INFO-执行fixture
+2021-10-20 21:55:01,741-file_process.py-INFO-Had read file info
+2021-10-20 21:55:01,748-conftest.py-INFO-执行fixture
+2021-10-20 21:55:09,747-base_page.py-ERROR-'NoneType' object has no attribute 'send_keys'
+2021-10-20 21:55:09,893-conftest.py-INFO-执行fixture

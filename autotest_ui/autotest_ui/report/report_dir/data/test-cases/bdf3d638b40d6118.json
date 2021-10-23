@@ -1,0 +1,117 @@
+{
+  "uid" : "bdf3d638b40d6118",
+  "name" : "test_ClearVM",
+  "fullName" : "Testcases.test_clearvm.TestDeleteVM#test_ClearVM",
+  "historyId" : "2f5bc0e63a0b59dc32a4849dc4e402a5",
+  "time" : {
+    "start" : 1634883578789,
+    "stop" : 1634883578789,
+    "duration" : 0
+  },
+  "description" : "\n        删除vm\n        :param open_browswr:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    删除vm\n    :param open_browswr:\n    :return:\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'bool' object has no attribute 'find_element'",
+  "statusTrace" : "self = <autotest_ui.Testcases.test_clearvm.TestDeleteVM object at 0x7fd2a6bc1cd0>\nopen_browswr = False\n\n    @allure.issue(\"http://www.baidu.com\",name='bug')\n    def test_ClearVM(self,open_browswr):\n        \"\"\"\n        删除vm\n        :param open_browswr:\n        :return:\n        \"\"\"\n    \n        delete = DeleteVM(open_browswr)\n    \n    \n>       delete.clear_username()\n\nTestcases/test_clearvm.py:28: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \npagemodels/delete_vm.py:14: in clear_username\n    self.clear(self.username_input)\ncommon/base_page.py:215: in clear\n    element = self.find_element(selector)\ncommon/base_page.py:113: in find_element\n    return page_action.find_element(self.driver,selector)\ncommon/page_action.py:39: in find_element\n    message='presence timeout %s=>%s' %(selector_by,selector_value)\n../venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py:78: in until\n    value = method(self._driver)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\ndriver = False\n\n    def _predicate(driver):\n>       return driver.find_element(*locator)\nE       AttributeError: 'bool' object has no attribute 'find_element'\n\n../venv/lib/python3.7/site-packages/selenium/webdriver/support/expected_conditions.py:64: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open_browswr",
+    "time" : {
+      "start" : 1634883572933,
+      "stop" : 1634883578694,
+      "duration" : 5761
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        删除vm\n        :param open_browswr:\n        :return:\n        ",
+    "status" : "broken",
+    "statusMessage" : "AttributeError: 'bool' object has no attribute 'find_element'",
+    "statusTrace" : "self = <autotest_ui.Testcases.test_clearvm.TestDeleteVM object at 0x7fd2a6bc1cd0>\nopen_browswr = False\n\n    @allure.issue(\"http://www.baidu.com\",name='bug')\n    def test_ClearVM(self,open_browswr):\n        \"\"\"\n        删除vm\n        :param open_browswr:\n        :return:\n        \"\"\"\n    \n        delete = DeleteVM(open_browswr)\n    \n    \n>       delete.clear_username()\n\nTestcases/test_clearvm.py:28: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \npagemodels/delete_vm.py:14: in clear_username\n    self.clear(self.username_input)\ncommon/base_page.py:215: in clear\n    element = self.find_element(selector)\ncommon/base_page.py:113: in find_element\n    return page_action.find_element(self.driver,selector)\ncommon/page_action.py:39: in find_element\n    message='presence timeout %s=>%s' %(selector_by,selector_value)\n../venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py:78: in until\n    value = method(self._driver)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\ndriver = False\n\n    def _predicate(driver):\n>       return driver.find_element(*locator)\nE       AttributeError: 'bool' object has no attribute 'find_element'\n\n../venv/lib/python3.7/site-packages/selenium/webdriver/support/expected_conditions.py:64: AttributeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "24ae85734279ba31",
+      "name" : "log",
+      "source" : "24ae85734279ba31.txt",
+      "type" : "text/plain",
+      "size" : 45
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "open_browswr::0",
+    "time" : {
+      "start" : 1634883578805,
+      "stop" : 1634883578805,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "deletevm"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_clearvm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDeleteVM"
+  }, {
+    "name" : "host",
+    "value" : "wangyingdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "60373-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Testcases.test_clearvm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "bug",
+    "url" : "http://www.baidu.com",
+    "type" : "issue"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "deletevm" ]
+  },
+  "source" : "bdf3d638b40d6118.json",
+  "parameterValues" : [ ]
+}

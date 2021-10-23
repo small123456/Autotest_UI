@@ -1,0 +1,20 @@
+2021-10-22 15:07:22,887-file_process.py-INFO-Had read file info
+2021-10-22 15:07:22,894-conftest.py-INFO-执行fixture
+2021-10-22 15:07:26,553-base_page.py-INFO-标红成功
+2021-10-22 15:07:27,094-conftest.py-INFO-执行fixture
+2021-10-22 15:08:21,916-file_process.py-INFO-Had read file info
+2021-10-22 15:08:21,923-conftest.py-INFO-执行fixture
+2021-10-22 15:08:31,945-brower_engine.py-ERROR-HTTPSConnectionPool(host='sso1.capitalonline.net', port=443): Max retries exceeded with url: /pages/login.html?next=http://console.capitalonline.net/vdc (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1074: The handshake operation timed out')))
+2021-10-22 15:08:32,026-conftest.py-INFO-执行fixture
+2021-10-22 15:09:23,766-file_process.py-INFO-Had read file info
+2021-10-22 15:09:23,773-conftest.py-INFO-执行fixture
+2021-10-22 15:09:27,036-base_page.py-INFO-标红成功
+2021-10-22 15:09:27,510-conftest.py-INFO-执行fixture
+2021-10-22 15:14:02,685-file_process.py-INFO-Had read file info
+2021-10-22 15:14:02,692-conftest.py-INFO-执行fixture
+2021-10-22 15:14:15,838-base_page.py-INFO-标红成功
+2021-10-22 15:14:16,319-conftest.py-INFO-执行fixture
+2021-10-22 15:17:08,880-file_process.py-INFO-Had read file info
+2021-10-22 15:17:08,887-conftest.py-INFO-执行fixture
+2021-10-22 15:17:12,441-base_page.py-INFO-标红成功
+2021-10-22 15:17:13,022-conftest.py-INFO-执行fixture

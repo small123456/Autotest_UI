@@ -1,0 +1,134 @@
+{
+  "uid" : "b1bb50853608d504",
+  "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+  "fullName" : "Testcases.test_createvm.TestCreateVM#test_CreateVM",
+  "historyId" : "dce301d1736974f017f17739fef651c0",
+  "time" : {
+    "start" : 1634886855699,
+    "stop" : 1634886856318,
+    "duration" : 619
+  },
+  "description" : "miaoshu",
+  "descriptionHtml" : "<p>miaoshu</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open_browswr",
+    "time" : {
+      "start" : 1634886842693,
+      "stop" : 1634886855697,
+      "duration" : 13004
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "miaoshu",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a5d438e404c85e4a",
+      "name" : "log",
+      "source" : "a5d438e404c85e4a.txt",
+      "type" : "text/plain",
+      "size" : 140
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "open_browswr::0",
+    "time" : {
+      "start" : 1634886856320,
+      "stop" : 1634886856320,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ceshizhong"
+  }, {
+    "name" : "feature",
+    "value" : "xiugaizhog"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "epic",
+    "value" : "test3"
+  }, {
+    "name" : "feature",
+    "value" : "test2"
+  }, {
+    "name" : "story",
+    "value" : "test1"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_createvm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCreateVM"
+  }, {
+    "name" : "host",
+    "value" : "wangyingdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "61093-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Testcases.test_createvm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'hfhhffdg'"
+  }, {
+    "name" : "username",
+    "value" : "'yi.pan'"
+  } ],
+  "links" : [ {
+    "name" : "cshi",
+    "url" : "http://www.baidu.com",
+    "type" : "link"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "b1bb50853608d504.json",
+  "parameterValues" : [ "'hfhhffdg'", "'yi.pan'" ]
+}

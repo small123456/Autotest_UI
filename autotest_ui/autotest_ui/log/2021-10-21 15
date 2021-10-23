@@ -1,0 +1,23 @@
+2021-10-21 15:02:58,004-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,031-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,140-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,251-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,315-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,365-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,412-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,467-file_process.py-INFO-Had read file info
+2021-10-21 15:02:58,476-conftest.py-INFO-执行fixture
+2021-10-21 15:02:58,476-conftest.py-INFO-执行fixture
+2021-10-21 15:03:02,543-base_page.py-INFO-清除成功
+2021-10-21 15:03:02,563-base_page.py-INFO-标红成功
+2021-10-21 15:03:02,581-base_page.py-INFO-清除成功
+2021-10-21 15:03:02,668-base_page.py-INFO-标红成功
+2021-10-21 15:03:03,018-conftest.py-INFO-执行fixture
+2021-10-21 15:03:03,291-conftest.py-INFO-执行fixture
+2021-10-21 15:36:19,817-file_process.py-INFO-Had read file info
+2021-10-21 15:36:19,825-conftest.py-INFO-执行fixture
+2021-10-21 15:36:23,709-base_page.py-INFO-标红成功
+2021-10-21 15:36:24,274-base_page.py-INFO-清除成功
+2021-10-21 15:36:24,282-base_page.py-INFO-标红成功
+2021-10-21 15:36:24,294-base_page.py-INFO-清除成功
+2021-10-21 15:36:24,661-conftest.py-INFO-执行fixture

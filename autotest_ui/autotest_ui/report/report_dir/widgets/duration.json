@@ -1,0 +1,21 @@
+[ {
+  "uid" : "740a6c14b4dff31d",
+  "name" : "test_ClearVM",
+  "time" : {
+    "start" : 1634884477343,
+    "stop" : 1634884477721,
+    "duration" : 378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cab459c6728a98a",
+  "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+  "time" : {
+    "start" : 1634887032246,
+    "stop" : 1634887033021,
+    "duration" : 775
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

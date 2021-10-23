@@ -1,0 +1,3 @@
+INFO     contest:conftest.py:10 执行fixture
+ERROR    brower_engine:brower_engine.py:131 HTTPSConnectionPool(host='sso1.capitalonline.net', port=443): Max retries exceeded with url: /pages/login.html?next=http://console.capitalonline.net/vdc (Caused by ProxyError('Cannot connect to proxy.', timeout('_ssl.c:1074: The handshake operation timed out')))
+INFO     contest:conftest.py:15 执行fixture

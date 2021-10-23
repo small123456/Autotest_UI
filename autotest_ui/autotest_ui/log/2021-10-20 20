@@ -1,0 +1,11 @@
+2021-10-20 20:18:01,374-brower_engine.py-ERROR-'WebDriver' object has no attribute 'maximize'
+2021-10-20 20:21:27,950-brower_engine.py-ERROR-'WebDriver' object has no attribute 'maximize'
+2021-10-20 20:23:02,145-conftest.py-INFO-执行fixture
+2021-10-20 20:23:05,481-conftest.py-INFO-执行fixture
+2021-10-20 20:23:05,484-file_process.py-INFO-Had read file info
+2021-10-20 20:27:33,794-conftest.py-INFO-执行fixture
+2021-10-20 20:27:42,192-file_process.py-INFO-Had read file info
+2021-10-20 20:29:25,438-conftest.py-INFO-执行fixture
+2021-10-20 20:29:34,441-file_process.py-INFO-Had read file info
+2021-10-20 20:31:56,815-conftest.py-INFO-执行fixture
+2021-10-20 20:32:11,386-file_process.py-INFO-Had read file info

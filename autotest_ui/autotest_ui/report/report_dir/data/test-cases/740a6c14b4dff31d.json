@@ -1,0 +1,156 @@
+{
+  "uid" : "740a6c14b4dff31d",
+  "name" : "test_ClearVM",
+  "fullName" : "Testcases.test_clearvm.TestDeleteVM#test_ClearVM",
+  "historyId" : "2f5bc0e63a0b59dc32a4849dc4e402a5",
+  "time" : {
+    "start" : 1634884477343,
+    "stop" : 1634884477721,
+    "duration" : 378
+  },
+  "description" : "\n        删除vm\n        :param open_browswr:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    删除vm\n    :param open_browswr:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "open_browswr",
+    "time" : {
+      "start" : 1634884472538,
+      "stop" : 1634884476687,
+      "duration" : 4149
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "\n        删除vm\n        :param open_browswr:\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "26ce0491a8eaa54e",
+      "name" : "log",
+      "source" : "26ce0491a8eaa54e.txt",
+      "type" : "text/plain",
+      "size" : 192
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "open_browswr::0",
+    "time" : {
+      "start" : 1634884477722,
+      "stop" : 1634884477722,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "tag",
+    "value" : "deletevm"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_clearvm"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDeleteVM"
+  }, {
+    "name" : "host",
+    "value" : "wangyingdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "60477-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Testcases.test_clearvm"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "bug",
+    "url" : "http://www.baidu.com",
+    "type" : "issue"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bdf3d638b40d6118",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'bool' object has no attribute 'find_element'",
+      "time" : {
+        "start" : 1634883578789,
+        "stop" : 1634883578789,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd7a0b388fb7f0f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634882897102,
+        "stop" : 1634882897528,
+        "duration" : 426
+      }
+    }, {
+      "uid" : "9542de87c18fb29b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634881755575,
+        "stop" : 1634881755967,
+        "duration" : 392
+      }
+    }, {
+      "uid" : "4be6857ca58d88c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634881612783,
+        "stop" : 1634881613168,
+        "duration" : 385
+      }
+    }, {
+      "uid" : "b2acb794a7af3690",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634881411949,
+        "stop" : 1634881412321,
+        "duration" : 372
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)", "deletevm" ]
+  },
+  "source" : "740a6c14b4dff31d.json",
+  "parameterValues" : [ ]
+}

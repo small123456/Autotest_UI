@@ -1,0 +1,17 @@
+2021-10-20 18:14:50,010-conftest.py-INFO-执行fixture
+2021-10-20 18:14:55,572-brower_engine.py-ERROR-Message: Service /Users/wangying/PycharmProjects/autotest_ui/autotest_ui/tool/chromedriver_1 unexpectedly exited. Status code was: -9
+
+2021-10-20 18:14:55,573-conftest.py-INFO-执行fixture
+2021-10-20 18:14:55,576-file_process.py-INFO-Had read file info
+2021-10-20 18:15:13,210-conftest.py-INFO-执行fixture
+2021-10-20 18:15:17,162-brower_engine.py-ERROR-'WebDriver' object has no attribute 'maximize'
+2021-10-20 18:15:17,162-conftest.py-INFO-执行fixture
+2021-10-20 18:15:17,163-file_process.py-INFO-Had read file info
+2021-10-20 18:15:42,396-conftest.py-INFO-执行fixture
+2021-10-20 18:15:44,656-brower_engine.py-ERROR-'WebDriver' object has no attribute 'maximize'
+2021-10-20 18:15:44,656-conftest.py-INFO-执行fixture
+2021-10-20 18:15:44,658-file_process.py-INFO-Had read file info
+2021-10-20 18:17:27,161-conftest.py-INFO-执行fixture
+2021-10-20 18:17:29,131-brower_engine.py-ERROR-'WebDriver' object has no attribute 'maximize'
+2021-10-20 18:17:29,131-conftest.py-INFO-执行fixture
+2021-10-20 18:17:29,134-file_process.py-INFO-Had read file info

@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Testcases",
+    "children" : [ {
+      "name" : "test_clearvm",
+      "children" : [ {
+        "name" : "TestDeleteVM",
+        "children" : [ {
+          "name" : "test_ClearVM",
+          "uid" : "740a6c14b4dff31d",
+          "parentUid" : "32a931ffaf4866d9aef861812589a8ee",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634884477343,
+            "stop" : 1634884477721,
+            "duration" : 378
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "32a931ffaf4866d9aef861812589a8ee"
+      } ],
+      "uid" : "4121ef47834192ae25b035490cec4a03"
+    }, {
+      "name" : "test_createvm",
+      "children" : [ {
+        "name" : "TestCreateVM",
+        "children" : [ {
+          "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+          "uid" : "1cab459c6728a98a",
+          "parentUid" : "aee2328971069c3a385e61ff2db37b38",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634887032246,
+            "stop" : 1634887033021,
+            "duration" : 775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+        } ],
+        "uid" : "aee2328971069c3a385e61ff2db37b38"
+      } ],
+      "uid" : "bc760c8839d3da951102b2777a25bce6"
+    } ],
+    "uid" : "edcb6c5622d59303d279a449ab2d3a2b"
+  } ],
+  "name" : "suites"
+}

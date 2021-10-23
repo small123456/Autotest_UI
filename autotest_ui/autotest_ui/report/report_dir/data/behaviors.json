@@ -1,0 +1,98 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "test_ClearVM",
+    "uid" : "740a6c14b4dff31d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1634884477343,
+      "stop" : 1634884477721,
+      "duration" : 378
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test3",
+    "children" : [ {
+      "name" : "xiugaizhog",
+      "children" : [ {
+        "name" : "dongtAI",
+        "children" : [ {
+          "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+          "uid" : "1cab459c6728a98a",
+          "parentUid" : "3d80be208685108874d4a24c2abe6f24",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634887032246,
+            "stop" : 1634887033021,
+            "duration" : 775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+        } ],
+        "uid" : "3d80be208685108874d4a24c2abe6f24"
+      }, {
+        "name" : "test1",
+        "children" : [ {
+          "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+          "uid" : "1cab459c6728a98a",
+          "parentUid" : "2ba04987da6538f8d3bf7cd381752617",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634887032246,
+            "stop" : 1634887033021,
+            "duration" : 775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+        } ],
+        "uid" : "2ba04987da6538f8d3bf7cd381752617"
+      } ],
+      "uid" : "9c76532cf80c7d1c68eb453043a5de70"
+    }, {
+      "name" : "test2",
+      "children" : [ {
+        "name" : "dongtAI",
+        "children" : [ {
+          "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+          "uid" : "1cab459c6728a98a",
+          "parentUid" : "3727f8a13e7b54dae775f23d1a350159",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634887032246,
+            "stop" : 1634887033021,
+            "duration" : 775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+        } ],
+        "uid" : "3727f8a13e7b54dae775f23d1a350159"
+      }, {
+        "name" : "test1",
+        "children" : [ {
+          "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+          "uid" : "1cab459c6728a98a",
+          "parentUid" : "339bce0a916217a78884e31ade6b33aa",
+          "status" : "passed",
+          "time" : {
+            "start" : 1634887032246,
+            "stop" : 1634887033021,
+            "duration" : 775
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+        } ],
+        "uid" : "339bce0a916217a78884e31ade6b33aa"
+      } ],
+      "uid" : "38db07be36352d731f0dc90dcbb90f96"
+    } ],
+    "uid" : "808867518d1e1f28cf780bfbac887056"
+  } ],
+  "name" : "behaviors"
+}

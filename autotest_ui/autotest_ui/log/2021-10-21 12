@@ -1,0 +1,68 @@
+2021-10-21 12:51:16,025-file_process.py-INFO-Had read file info
+2021-10-21 12:51:16,033-conftest.py-INFO-执行fixture
+2021-10-21 12:51:22,509-conftest.py-INFO-执行fixture
+2021-10-21 12:52:38,787-file_process.py-INFO-Had read file info
+2021-10-21 12:52:38,792-conftest.py-INFO-执行fixture
+2021-10-21 12:52:43,201-conftest.py-INFO-执行fixture
+2021-10-21 12:54:47,517-file_process.py-INFO-Had read file info
+2021-10-21 12:54:47,522-conftest.py-INFO-执行fixture
+2021-10-21 12:54:52,800-base_page.py-ERROR-Message: javascript error: argument is not defined
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+0   chromedriver_1                      0x000000010d1e2bb9 chromedriver_1 + 2747321
+1   chromedriver_1                      0x000000010d898e03 chromedriver_1 + 9784835
+2   chromedriver_1                      0x000000010cf6f118 chromedriver_1 + 176408
+3   chromedriver_1                      0x000000010cf71f91 chromedriver_1 + 188305
+4   chromedriver_1                      0x000000010cf71db1 chromedriver_1 + 187825
+5   chromedriver_1                      0x000000010cf728bd chromedriver_1 + 190653
+6   chromedriver_1                      0x000000010cfd3f43 chromedriver_1 + 589635
+7   chromedriver_1                      0x000000010cfc0cb2 chromedriver_1 + 511154
+8   chromedriver_1                      0x000000010cfd32fb chromedriver_1 + 586491
+9   chromedriver_1                      0x000000010cfc0fc3 chromedriver_1 + 511939
+10  chromedriver_1                      0x000000010cf9740e chromedriver_1 + 341006
+11  chromedriver_1                      0x000000010cf98735 chromedriver_1 + 345909
+12  chromedriver_1                      0x000000010d1a95df chromedriver_1 + 2512351
+13  chromedriver_1                      0x000000010d1bc26f chromedriver_1 + 2589295
+14  chromedriver_1                      0x000000010d18dcbb chromedriver_1 + 2399419
+15  chromedriver_1                      0x000000010d1bd6ea chromedriver_1 + 2594538
+16  chromedriver_1                      0x000000010d19ec8c chromedriver_1 + 2469004
+17  chromedriver_1                      0x000000010d1d6f58 chromedriver_1 + 2699096
+18  chromedriver_1                      0x000000010d1d70e1 chromedriver_1 + 2699489
+19  chromedriver_1                      0x000000010d1e7bc8 chromedriver_1 + 2767816
+20  libsystem_pthread.dylib             0x00007fff69317109 _pthread_start + 148
+21  libsystem_pthread.dylib             0x00007fff69312b8b thread_start + 15
+
+2021-10-21 12:54:53,233-conftest.py-INFO-执行fixture
+2021-10-21 12:57:27,377-file_process.py-INFO-Had read file info
+2021-10-21 12:57:27,384-conftest.py-INFO-执行fixture
+2021-10-21 12:57:37,558-base_page.py-ERROR-Message: javascript error: argument is not defined
+  (Session info: chrome=95.0.4638.54)
+Stacktrace:
+0   chromedriver_1                      0x000000010ddadbb9 chromedriver_1 + 2747321
+1   chromedriver_1                      0x000000010e463e03 chromedriver_1 + 9784835
+2   chromedriver_1                      0x000000010db3a118 chromedriver_1 + 176408
+3   chromedriver_1                      0x000000010db3cf91 chromedriver_1 + 188305
+4   chromedriver_1                      0x000000010db3cdb1 chromedriver_1 + 187825
+5   chromedriver_1                      0x000000010db3d8bd chromedriver_1 + 190653
+6   chromedriver_1                      0x000000010db9ef43 chromedriver_1 + 589635
+7   chromedriver_1                      0x000000010db8bcb2 chromedriver_1 + 511154
+8   chromedriver_1                      0x000000010db9e2fb chromedriver_1 + 586491
+9   chromedriver_1                      0x000000010db8bfc3 chromedriver_1 + 511939
+10  chromedriver_1                      0x000000010db6240e chromedriver_1 + 341006
+11  chromedriver_1                      0x000000010db63735 chromedriver_1 + 345909
+12  chromedriver_1                      0x000000010dd745df chromedriver_1 + 2512351
+13  chromedriver_1                      0x000000010dd8726f chromedriver_1 + 2589295
+14  chromedriver_1                      0x000000010dd58cbb chromedriver_1 + 2399419
+15  chromedriver_1                      0x000000010dd886ea chromedriver_1 + 2594538
+16  chromedriver_1                      0x000000010dd69c8c chromedriver_1 + 2469004
+17  chromedriver_1                      0x000000010dda1f58 chromedriver_1 + 2699096
+18  chromedriver_1                      0x000000010dda20e1 chromedriver_1 + 2699489
+19  chromedriver_1                      0x000000010ddb2bc8 chromedriver_1 + 2767816
+20  libsystem_pthread.dylib             0x00007fff69317109 _pthread_start + 148
+21  libsystem_pthread.dylib             0x00007fff69312b8b thread_start + 15
+
+2021-10-21 12:57:37,692-conftest.py-INFO-执行fixture
+2021-10-21 12:59:11,977-file_process.py-INFO-Had read file info
+2021-10-21 12:59:11,985-conftest.py-INFO-执行fixture
+2021-10-21 12:59:15,001-base_page.py-INFO-标红成功
+2021-10-21 12:59:15,442-conftest.py-INFO-执行fixture

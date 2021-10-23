@@ -1,0 +1,325 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "wangyingdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "61172-MainThread",
+      "children" : [ {
+        "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+        "uid" : "1cab459c6728a98a",
+        "parentUid" : "2c3f8b81d1ed0d236325be8844ba2340",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634887032246,
+          "stop" : 1634887033021,
+          "duration" : 775
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "2c3f8b81d1ed0d236325be8844ba2340"
+    }, {
+      "name" : "59901-MainThread",
+      "children" : [ {
+        "name" : "test_ClearVM",
+        "uid" : "b2acb794a7af3690",
+        "parentUid" : "955af4352a93591409c1467fccf383d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634881411949,
+          "stop" : 1634881412321,
+          "duration" : 372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_CreateVM[yi.pan-hfhhffdg]",
+        "uid" : "31248ea731d9efe2",
+        "parentUid" : "955af4352a93591409c1467fccf383d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634881411294,
+          "stop" : 1634881411943,
+          "duration" : 649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "955af4352a93591409c1467fccf383d7"
+    }, {
+      "name" : "60241-MainThread",
+      "children" : [ {
+        "name" : "test_ClearVM",
+        "uid" : "fd7a0b388fb7f0f5",
+        "parentUid" : "6d66506d13a68ff1e84dc75630c4bf11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634882897102,
+          "stop" : 1634882897528,
+          "duration" : 426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "chaungjian",
+        "uid" : "1931d8987ecfb21",
+        "parentUid" : "6d66506d13a68ff1e84dc75630c4bf11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634882896460,
+          "stop" : 1634882897098,
+          "duration" : 638
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "6d66506d13a68ff1e84dc75630c4bf11"
+    }, {
+      "name" : "60552-MainThread",
+      "children" : [ {
+        "name" : "创建",
+        "uid" : "69e45f3055a4f38e",
+        "parentUid" : "5acb3fed499f24593bfbf184addaf936",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634884685394,
+          "stop" : 1634884686014,
+          "duration" : 620
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "5acb3fed499f24593bfbf184addaf936"
+    }, {
+      "name" : "60477-MainThread",
+      "children" : [ {
+        "name" : "创建",
+        "uid" : "c27f1a8e8af33b12",
+        "parentUid" : "ed10d20889b0c31f10e180f0be1de0c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634884476688,
+          "stop" : 1634884477336,
+          "duration" : 648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      }, {
+        "name" : "test_ClearVM",
+        "uid" : "740a6c14b4dff31d",
+        "parentUid" : "ed10d20889b0c31f10e180f0be1de0c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634884477343,
+          "stop" : 1634884477721,
+          "duration" : 378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed10d20889b0c31f10e180f0be1de0c3"
+    }, {
+      "name" : "60957-MainThread",
+      "children" : [ {
+        "name" : "创建",
+        "uid" : "8ab863b1c0c3dab1",
+        "parentUid" : "893a53c0c4089166e08c14ee199795f4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1634886511947,
+          "stop" : 1634886511947,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "893a53c0c4089166e08c14ee199795f4"
+    }, {
+      "name" : "61001-MainThread",
+      "children" : [ {
+        "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+        "uid" : "fdacf12540eb0537",
+        "parentUid" : "815c0128216c4605ac09c4b3cfb67dca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634886566900,
+          "stop" : 1634886567508,
+          "duration" : 608
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "815c0128216c4605ac09c4b3cfb67dca"
+    }, {
+      "name" : "60063-MainThread",
+      "children" : [ {
+        "name" : "test_ClearVM",
+        "uid" : "9542de87c18fb29b",
+        "parentUid" : "ad75d279d890c682eb95213eff3433f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634881755575,
+          "stop" : 1634881755967,
+          "duration" : 392
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_CreateVM[yi.pan-hfhhffdg]",
+        "uid" : "fc71a4bd26c63a14",
+        "parentUid" : "ad75d279d890c682eb95213eff3433f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634881754944,
+          "stop" : 1634881755569,
+          "duration" : 625
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "ad75d279d890c682eb95213eff3433f2"
+    }, {
+      "name" : "60373-MainThread",
+      "children" : [ {
+        "name" : "创建",
+        "uid" : "73ccf5e8aad22cf",
+        "parentUid" : "d428267926e1b9fc49b56befb252babf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1634883578696,
+          "stop" : 1634883578696,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      }, {
+        "name" : "test_ClearVM",
+        "uid" : "bdf3d638b40d6118",
+        "parentUid" : "d428267926e1b9fc49b56befb252babf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1634883578789,
+          "stop" : 1634883578789,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d428267926e1b9fc49b56befb252babf"
+    }, {
+      "name" : "61093-MainThread",
+      "children" : [ {
+        "name" : "xiugaibiaoti->yi.pan,hfhhffdg",
+        "uid" : "b1bb50853608d504",
+        "parentUid" : "6f63d7c83c232f50246fef4e76d75ae5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634886855699,
+          "stop" : 1634886856318,
+          "duration" : 619
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "6f63d7c83c232f50246fef4e76d75ae5"
+    }, {
+      "name" : "60744-MainThread",
+      "children" : [ {
+        "name" : "创建",
+        "uid" : "6d3c86ec3f4b4ca6",
+        "parentUid" : "571a7ea8de9ac0a7505e04a2ed0d8fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634885234053,
+          "stop" : 1634885234676,
+          "duration" : 623
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "571a7ea8de9ac0a7505e04a2ed0d8fe2"
+    }, {
+      "name" : "59984-MainThread",
+      "children" : [ {
+        "name" : "test_ClearVM",
+        "uid" : "4be6857ca58d88c7",
+        "parentUid" : "1dfc6b0c16b544cb243b6e2abc8d709e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634881612783,
+          "stop" : 1634881613168,
+          "duration" : 385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_CreateVM[yi.pan-hfhhffdg]",
+        "uid" : "5531aae3dbba1a2f",
+        "parentUid" : "1dfc6b0c16b544cb243b6e2abc8d709e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634881612141,
+          "stop" : 1634881612777,
+          "duration" : 636
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "1dfc6b0c16b544cb243b6e2abc8d709e"
+    }, {
+      "name" : "60630-MainThread",
+      "children" : [ {
+        "name" : "创建",
+        "uid" : "8204d4150ce89dee",
+        "parentUid" : "e8995ccc284c696cd19dd2e873443c16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634884800945,
+          "stop" : 1634884801580,
+          "duration" : 635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "e8995ccc284c696cd19dd2e873443c16"
+    }, {
+      "name" : "60880-MainThread",
+      "children" : [ {
+        "name" : "xiugaibiaoti->{username},{password}",
+        "uid" : "134bec60dccea088",
+        "parentUid" : "fcdcbc338a781194fe73ffde0e0ee761",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634886446362,
+          "stop" : 1634886447093,
+          "duration" : 731
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'hfhhffdg'", "'yi.pan'" ]
+      } ],
+      "uid" : "fcdcbc338a781194fe73ffde0e0ee761"
+    } ],
+    "uid" : "13ac4224a3c6940c604dc0f6a873274e"
+  } ],
+  "name" : "timeline"
+}

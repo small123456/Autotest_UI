@@ -1,0 +1,29 @@
+
+vm_create:
+  site_id: CN_Shanghai_A
+  vdc_name: Shanghai_1
+  password: 123abc,.;
+  vm_name: Shanghai_1
+  instance_type : CCS.HFC3​
+  cpu: 4
+  ram: 8
+  os_id: Centos_8.2_64
+  num: 1
+data_disk_create:
+  disk: [{ "Size": 20,  "Type": "high_disk" }]
+system_disk_resize:
+  size: 60
+  iops: 5
+reset_os:
+  os_id: Centos_7.5_64
+modify_password:
+  password: 456qwe,.;
+modify_spec:
+  cpu: 4
+  ram: 16
+  instancetype: CCS.HFG3​
+tpl:
+  tpl_name: Shanghai_1_tpl
+ip_reset:
+  address: None
+  type: PublicNetworkInterface

@@ -1,0 +1,68 @@
+2021-10-21 14:05:21,379-file_process.py-INFO-Had read file info
+2021-10-21 14:05:21,387-conftest.py-INFO-执行fixture
+2021-10-21 14:05:25,716-base_page.py-INFO-标红成功
+2021-10-21 14:05:26,135-conftest.py-INFO-执行fixture
+2021-10-21 14:06:32,898-file_process.py-INFO-Had read file info
+2021-10-21 14:06:32,905-conftest.py-INFO-执行fixture
+2021-10-21 14:06:38,095-brower_engine.py-ERROR-HTTPSConnectionPool(host='sso1.capitalonline.net', port=443): Max retries exceeded with url: /pages/login.html?next=http://console.capitalonline.net/vdc (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+2021-10-21 14:06:38,166-conftest.py-INFO-执行fixture
+2021-10-21 14:07:05,170-file_process.py-INFO-Had read file info
+2021-10-21 14:07:05,177-conftest.py-INFO-执行fixture
+2021-10-21 14:07:08,140-base_page.py-INFO-标红成功
+2021-10-21 14:07:08,572-conftest.py-INFO-执行fixture
+2021-10-21 14:08:44,718-file_process.py-INFO-Had read file info
+2021-10-21 14:08:44,725-conftest.py-INFO-执行fixture
+2021-10-21 14:08:47,626-base_page.py-INFO-标红成功
+2021-10-21 14:08:48,067-conftest.py-INFO-执行fixture
+2021-10-21 14:09:57,928-file_process.py-INFO-Had read file info
+2021-10-21 14:09:57,936-conftest.py-INFO-执行fixture
+2021-10-21 14:10:00,478-conftest.py-INFO-执行fixture
+2021-10-21 14:20:50,788-file_process.py-INFO-Had read file info
+2021-10-21 14:20:50,796-conftest.py-INFO-执行fixture
+2021-10-21 14:20:55,183-base_page.py-INFO-标红成功
+2021-10-21 14:20:55,655-conftest.py-INFO-执行fixture
+2021-10-21 14:23:16,012-file_process.py-INFO-Had read file info
+2021-10-21 14:23:16,022-conftest.py-INFO-执行fixture
+2021-10-21 14:23:19,868-base_page.py-INFO-标红成功
+2021-10-21 14:23:20,489-base_page.py-INFO-标红成功
+2021-10-21 14:23:21,167-base_page.py-INFO-标红成功
+2021-10-21 14:23:21,718-conftest.py-INFO-执行fixture
+2021-10-21 14:24:18,742-file_process.py-INFO-Had read file info
+2021-10-21 14:24:18,751-conftest.py-INFO-执行fixture
+2021-10-21 14:24:22,370-base_page.py-INFO-标红成功
+2021-10-21 14:24:22,925-base_page.py-INFO-标红成功
+2021-10-21 14:24:23,373-base_page.py-INFO-标红成功
+2021-10-21 14:24:23,821-conftest.py-INFO-执行fixture
+2021-10-21 14:24:23,821-conftest.py-INFO-执行fixture
+2021-10-21 14:24:26,372-conftest.py-INFO-执行fixture
+2021-10-21 14:24:26,373-conftest.py-INFO-执行fixture
+2021-10-21 14:24:29,230-conftest.py-INFO-执行fixture
+2021-10-21 14:34:52,117-file_process.py-INFO-Had read file info
+2021-10-21 14:34:52,124-conftest.py-INFO-执行fixture
+2021-10-21 14:34:56,837-base_page.py-INFO-标红成功
+2021-10-21 14:34:57,325-conftest.py-INFO-执行fixture
+2021-10-21 14:34:57,326-conftest.py-INFO-执行fixture
+2021-10-21 14:35:11,129-conftest.py-INFO-执行fixture
+2021-10-21 14:35:11,131-conftest.py-INFO-执行fixture
+2021-10-21 14:35:14,084-conftest.py-INFO-执行fixture
+2021-10-21 14:38:18,494-file_process.py-INFO-Had read file info
+2021-10-21 14:38:18,501-conftest.py-INFO-执行fixture
+2021-10-21 14:38:21,565-base_page.py-INFO-标红成功
+2021-10-21 14:38:21,994-base_page.py-INFO-清除成功
+2021-10-21 14:38:22,002-base_page.py-INFO-标红成功
+2021-10-21 14:38:22,010-base_page.py-INFO-清除成功
+2021-10-21 14:38:22,368-conftest.py-INFO-执行fixture
+2021-10-21 14:54:23,381-file_process.py-INFO-Had read file info
+2021-10-21 14:54:23,388-conftest.py-INFO-执行fixture
+2021-10-21 14:54:27,836-base_page.py-INFO-标红成功
+2021-10-21 14:54:28,364-base_page.py-INFO-清除成功
+2021-10-21 14:54:28,373-base_page.py-INFO-标红成功
+2021-10-21 14:54:28,381-base_page.py-INFO-清除成功
+2021-10-21 14:54:28,743-conftest.py-INFO-执行fixture
+2021-10-21 14:55:06,726-file_process.py-INFO-Had read file info
+2021-10-21 14:55:06,734-conftest.py-INFO-执行fixture
+2021-10-21 14:55:11,221-base_page.py-INFO-标红成功
+2021-10-21 14:55:11,741-base_page.py-INFO-清除成功
+2021-10-21 14:55:11,750-base_page.py-INFO-标红成功
+2021-10-21 14:55:11,758-base_page.py-INFO-清除成功
+2021-10-21 14:55:12,108-conftest.py-INFO-执行fixture

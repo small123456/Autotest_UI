@@ -1,0 +1,2 @@
+INFO     contest:conftest.py:8 执行fixture
+INFO     base_page:base_page.py:272 标红成功

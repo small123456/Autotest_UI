@@ -1,0 +1,4 @@
+INFO     base_page:base_page.py:218 清除成功
+INFO     base_page:base_page.py:272 标红成功
+INFO     base_page:base_page.py:218 清除成功
+INFO     contest:conftest.py:15 执行fixture

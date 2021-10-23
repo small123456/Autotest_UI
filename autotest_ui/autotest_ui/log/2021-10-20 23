@@ -1,0 +1,10 @@
+2021-10-20 23:02:57,624-file_process.py-INFO-Had read file info
+2021-10-20 23:02:57,630-conftest.py-INFO-执行fixture
+2021-10-20 23:03:03,227-brower_engine.py-ERROR-HTTPSConnectionPool(host='sso1.capitalonline.net', port=443): Max retries exceeded with url: /pages/login.html?next=http://console.capitalonline.net/vdc (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(54, 'Connection reset by peer')))
+2021-10-20 23:03:03,308-conftest.py-INFO-执行fixture
+2021-10-20 23:05:07,274-file_process.py-INFO-Had read file info
+2021-10-20 23:05:07,290-conftest.py-INFO-执行fixture
+2021-10-20 23:07:13,617-conftest.py-INFO-执行fixture
+2021-10-20 23:07:33,851-file_process.py-INFO-Had read file info
+2021-10-20 23:07:33,855-conftest.py-INFO-执行fixture
+2021-10-20 23:07:38,047-conftest.py-INFO-执行fixture

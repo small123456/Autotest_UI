@@ -1,0 +1,1 @@
+INFO     contest:conftest.py:15 执行fixture

@@ -1,0 +1,21 @@
+2021-10-20 22:00:33,550-file_process.py-INFO-Had read file info
+2021-10-20 22:00:33,558-conftest.py-INFO-执行fixture
+2021-10-20 22:00:42,435-conftest.py-INFO-执行fixture
+2021-10-20 22:01:20,247-file_process.py-INFO-Had read file info
+2021-10-20 22:01:20,258-conftest.py-INFO-执行fixture
+2021-10-20 22:01:24,309-conftest.py-INFO-执行fixture
+2021-10-20 22:43:48,566-file_process.py-INFO-Had read file info
+2021-10-20 22:43:48,573-conftest.py-INFO-执行fixture
+2021-10-20 22:43:53,196-conftest.py-INFO-执行fixture
+2021-10-20 22:44:54,748-file_process.py-INFO-Had read file info
+2021-10-20 22:44:54,753-conftest.py-INFO-执行fixture
+2021-10-20 22:44:57,478-conftest.py-INFO-执行fixture
+2021-10-20 22:51:24,252-file_process.py-INFO-Had read file info
+2021-10-20 22:51:24,265-conftest.py-INFO-执行fixture
+2021-10-20 22:56:24,223-conftest.py-INFO-执行fixture
+2021-10-20 22:57:00,891-file_process.py-INFO-Had read file info
+2021-10-20 22:57:00,904-conftest.py-INFO-执行fixture
+2021-10-20 22:58:17,682-conftest.py-INFO-执行fixture
+2021-10-20 22:58:53,822-file_process.py-INFO-Had read file info
+2021-10-20 22:58:53,834-conftest.py-INFO-执行fixture
+2021-10-20 23:05:05,633-conftest.py-INFO-执行fixture
